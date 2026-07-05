@@ -2,7 +2,7 @@
 
 I'm a software engineer with a Master's in Computer Science from Oregon State University.
 
-I enjoy building full-stack applications, backend APIs, cloud-backed systems, and AI-powered workflow tools. My work is mostly focused on practical product engineering — turning real problems into usable software.
+I enjoy building full-stack applications, backend APIs, cloud-backed systems, and AI-powered workflow tools. My work is mostly focused on practical product engineering - turning real problems into usable software.
 
 ## Featured Projects
 
