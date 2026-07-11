@@ -2,7 +2,7 @@
   Hi, I'm Gaurav 👋
   <img
     align="right"
-    src="https://komarev.com/ghpvc/?username=gauravpsingh07&label=Profile%20Views&color=0e75b6&style=flat&base=170"
+    src="https://komarev.com/ghpvc/?username=gauravpsingh07&label=Profile%20Views&color=0e75b6&style=flat&base=370"
     alt="Profile Views"
   />
 </h1>
