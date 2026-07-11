@@ -15,8 +15,8 @@ I'm currently open to software engineering opportunities.
 
 ## Certifications
 
-- [AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/3a7fba2dff294153bf6307d02061dca2) — Amazon Web Services
-- **AWS Certified Developer – Associate** — In progress
+- [AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/3a7fba2dff294153bf6307d02061dca2) - Amazon Web Services
+- **AWS Certified Developer – Associate** - In progress
 
 ## Selected Projects
 
