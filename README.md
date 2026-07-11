@@ -2,36 +2,41 @@
 
 I'm a software engineer with a Master's in Computer Science from Oregon State University.
 
-I enjoy building full-stack applications, backend APIs, cloud-backed systems, and AI-powered workflow tools. My work is mostly focused on practical product engineering - turning real problems into usable software.
+I like building full-stack applications, backend APIs, cloud-backed systems, and AI workflow tools. Most of my work is focused on taking real product problems and turning them into reliable, usable software.
 
 ## Featured Projects
 
-### CivicPulse
-A civic issue reporting platform that helps users report local issues, track updates, and support community workflows through maps, analytics, and alerts.
+### [CivicPulse](https://github.com/gauravpsingh07/CivicPulse)
 
-### PulseOps
-A serverless uptime monitoring and incident-status platform for tracking service health, scheduled checks, incidents, and alerts.
+A civic issue reporting app for submitting local problems, viewing them on a map, tracking updates, and supporting community workflows through alerts, analytics, and location-based search.
 
-### Helpdesk AI
-An AI-powered customer support platform with request handling, human review, escalation workflows, and governance controls.
+### [PulseOps](https://github.com/gauravpsingh07/pulseops)
 
-### SignalForge
-A backend job-processing project focused on retries, requeue logic, failure tracking, and dead-letter handling.
+An uptime monitoring and incident-status system with scheduled health checks, service status tracking, incident updates, alert workflows, and retention logic for old check data.
 
-### AgentOps Firewall
-A policy, audit, and approval layer for AI agents, designed to make agent workflows safer and more controlled.
+### [SignalForge](https://github.com/gauravpsingh07/signalforge)
 
-## What I'm Focused On
+A backend job-processing system focused on async event handling, retry logic, requeue behavior, failure tracking, and dead-letter style handling for jobs that cannot be processed successfully.
+
+### [Helpdesk AI](https://github.com/gauravpsingh07/helpdesk-ai)
+
+An AI-assisted support system that helps teams manage incoming requests, generate support responses, review AI output, escalate complex cases, and keep human approval in the loop.
+
+### [AgentOps Firewall](https://github.com/gauravpsingh07/agentops-firewall)
+
+A policy, audit, and approval layer for AI agent workflows, designed to make automated actions safer, more controlled, and easier to review before execution.
+
+## What I’m Focused On
 
 - Building production-ready full-stack applications
 - Designing clean backend APIs and workflows
-- Learning system design and cloud architecture
-- Exploring AI-assisted software and automation tools
-- Improving my ability to build reliable, useful products
+- Improving my system design and cloud architecture skills
+- Learning how managed cloud services replace custom infrastructure code
+- Building AI-assisted tools with safety, review, and governance in mind
 
 ## Currently
 
-I'm currently improving my system design skills, preparing for AWS Developer Associate concepts, and building projects around cloud, backend systems, and AI workflows.
+I'm preparing for the AWS Certified Developer – Associate exam, improving my system design skills, and building projects around cloud, backend systems, and AI workflows.
 
 ## Connect
 
